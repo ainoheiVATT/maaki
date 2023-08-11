@@ -5,7 +5,7 @@ Maaki-projektissa tuotetaan kiinteistökohtaista turvetietoa avoimien paikkatiet
 
 Maalaji: Maaperä 1:200 000 (maalajit) / Geologian tutkimuskeskus / 2002-2009 / https://hakku.gtk.fi/fi/locations/search?location_id=3
 
-Maannos: Suomen maannostietokanta / Luonnonvarakeskus / 2009 (päivitetty 2014-2016) / Saatu Lukesta kysymällä, verkossa puutteellinen versio
+Maannos: Suomen maannostietokanta / Luonnonvarakeskus / 2009 (päivitetty 2014-2016) / Saatu Lukesta kysymällä, verkossa puutteellinen versio / https://ckan.ymparisto.fi/dataset/suomen-maannostietokanta
 
 Corine: Corine maanpeite 2018 / Suomen ympäristökeskus / rasteri / https://www.syke.fi/fi-FI/Avoin_tieto/Paikkatietoaineistot/Ladattavat_paikkatietoaineistot
 
