@@ -1,5 +1,5 @@
 # maaki
-Maaki-projektissa tuotetaan kiinteistökohtaista turvetietoa avoimien paikkatietoaineistojen avulla.
+Maaki-projektissa tuotetaan kiinteistökohtaista turvetietoa yhdistämällä avoimia paikkatietoaineistoja.
 
 ## Käytetyt aineistot
 
